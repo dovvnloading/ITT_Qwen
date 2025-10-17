@@ -1,3 +1,5 @@
+<img width="856" height="433" alt="ITT-QWEN_Banner_001" src="https://github.com/user-attachments/assets/56318bfb-d8b8-4259-b659-65d4b8040582" />
+
 # ITT-Qwen: Image To Text with Qwen VLM
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)
